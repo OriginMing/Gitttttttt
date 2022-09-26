@@ -10,3 +10,5 @@ function subtract(a, b) {
 function yunian() {
   console.log("mian分支添加了yunian函数");
 }
+
+function yuqing() {}
