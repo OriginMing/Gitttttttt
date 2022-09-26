@@ -7,3 +7,6 @@ function subtract(a, b) {
   console.log("wm分支上修改次函数");
   return a - b;
 }
+function yunian() {
+  console.log("mian分支添加了yunian函数");
+}
